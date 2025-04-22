@@ -1,5 +1,6 @@
 ## EXNO-3-DS
-
+### Name : RAMYA R
+### Register No: 212223230169
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
@@ -31,10 +32,6 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-```
-Name: RAMYA R
-Reg No: 212223230169
-```
 
 ```
 import pandas as pd
